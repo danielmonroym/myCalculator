@@ -1,0 +1,19 @@
+{
+  "name": "mycalculator",
+  "version": "1.0.0",
+  "description": "Laboratorio 3 opcional",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmonroym/myCalculator.git"
+  },
+  "author": "Daniel Monroy Marín",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielmonroym/myCalculator/issues"
+  },
+  "homepage": "https://github.com/danielmonroym/myCalculator#readme"
+}
